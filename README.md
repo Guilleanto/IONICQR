@@ -1,8 +1,10 @@
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
+
 ## IONICQR - Aplicación de Test de lector QR.
 
 --------------------------------------------------------------------------------------
+
 
 ## How to use this template
 
